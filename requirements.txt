@@ -1,0 +1,9 @@
+fastapi[standard]
+llama-parse
+langchain
+langchain-community
+chromadb
+sentence-transformers
+groq
+pypdf
+python-dotenv
