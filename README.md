@@ -1,5 +1,5 @@
 
-# PDF RAG API
+# RAG ENGINE
 
 A powerful Retrieval-Augmented Generation (RAG) system for PDF documents using LlamaParse, LangChain, and Groq. This API allows you to upload PDF files, process them into a searchable knowledge base, and query them using natural language.
 
